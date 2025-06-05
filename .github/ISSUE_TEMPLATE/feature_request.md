@@ -1,20 +1,24 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Feature Request
+about: Suggest new functionality with clear business value
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 📖 Problem / opportunity
+A clear and concise description of what the problem is. What user pain or business goal does this solve? Include data if possible.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 💎 Proposed solution
+High-level description. Mock-ups or diagrams welcome.
 
-**Describe alternatives you've considered**
+** Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 📐 Success metrics / KPIs
+- e.g., +15 % daily validations  
+- …
+
+## 🗺  Links & Additional context
+Related Ideas, market research, initiatives…
