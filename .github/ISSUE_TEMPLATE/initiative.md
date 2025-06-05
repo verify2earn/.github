@@ -6,6 +6,8 @@ labels: ["initiative"]
 assignees: []
 ---
 
+## 📖 Description 
+
 ## 🏆 Outcome & success criteria
 State the measurable business/result goal (e.g., “500 early users validating data weekly”).
 
