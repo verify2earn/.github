@@ -1,5 +1,5 @@
 ---
-name: Task
+name: 🔨 Task
 about: Concrete development or ops work for a Story
 title: "[TASK] <action verb + object>"
 labels: ["task"]
