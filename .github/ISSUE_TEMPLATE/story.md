@@ -1,5 +1,5 @@
 ---
-name: 📝 Story
+name: Story
 about: User-centric slice of functionality
 title: "[STORY] <as a user, I want…>"
 labels: ["story"]
