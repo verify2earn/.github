@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: 🚀 Feature Request
 about: Suggest new functionality with clear business value
 title: ''
 labels: ''
