@@ -1,5 +1,5 @@
 ---
-name: Idea
+name: 💡 Idea
 about: Capture raw inspiration or pain-point before road-mapping
 title: "[IDEA] <one-sentence hook>"
 labels: ["idea", "needs-triage"]
